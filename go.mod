@@ -1,4 +1,4 @@
-module github.com/zouml-fx/dm-golang-driver
+module dm
 
 go 1.13
 
